@@ -13,12 +13,12 @@ List all team members and mark **P** (present), **A** (absent), or **L** (late).
 
 | Name | Role (if applicable) | Attendance |
 | ---- | -------------------- | ---------- |
-|Eloise      |                      |            |
-|Freddie      |                      |            |
-|Varat      |                      |            |
-|Deeqa |  |  |
-|Morley |  |  |
-|Owen |  |  |
+|Eloise|Project lead|P|
+|Freddie|User experience designer|P|
+|Varat|Front-end developer|P|
+|Deeqa|Back-end developer|P|
+|Morley|Front-end developer|P|
+|Owen|Back-end developer|P|
 ---
 
 ## 2. Meeting Purpose

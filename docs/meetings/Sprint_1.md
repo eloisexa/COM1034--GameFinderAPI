@@ -14,9 +14,11 @@ List all team members and mark **P** (present), **A** (absent), or **L** (late).
 | Name | Role (if applicable) | Attendance |
 | ---- | -------------------- | ---------- |
 |Eloise      |                      |            |
-|      |                      |            |
-|      |                      |            |
-
+|Freddie      |                      |            |
+|Varat      |                      |            |
+|Deeqa |  |  |
+|Morley |  |  |
+|Owen |  |  |
 ---
 
 ## 2. Meeting Purpose

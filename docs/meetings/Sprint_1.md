@@ -23,6 +23,8 @@ List all team members and mark **P** (present), **A** (absent), or **L** (late).
 
 ## 2. Meeting Purpose
 
+Assigning roles to all members of the group and understanding the project brief.
+
 <!-- A short sentence outlining why this meeting was held.
 
 Examples:
@@ -37,9 +39,9 @@ Examples:
 
 List the planned discussion items.
 
-1.
-2.
-3.
+1. Assigning roles
+2. Setting up communication across the group
+3. Identifying strengths amongst the group to help complete the assigned brief
 
 ---
 
@@ -55,10 +57,10 @@ Ensure you show evidence (e.g., screenshots, links to resources) of the discussi
 
 Use bullet points for clarity. Include rationale where relevant.
 
-- **Decision:**  
-  **Reasoning:**
-- **Decision:**  
-  **Reasoning:**
+- **Decision:**Assigned roles to each member of the group  
+  **Reasoning:**To establish structure within the group and initiate a good workflow
+- **Decision:**Planned next meeting to complete next sprint of project 
+  **Reasoning:**Ensure we have an organised and committed plan going forward to ensure efficient completion of work
 
 ## 6. Actions and Responsibilities
 
@@ -66,12 +68,14 @@ Clear, assigned tasks with deadlines.
 
 | Task | Assigned To | Due Date | Status                               |
 | ---- | ----------- | -------- | ------------------------------------ |
-|      |             |          | Not started / In progress / Complete |
-|      |             |          |                                      |
-|      |             |          |                                      |
+|Generate epics|Everyone|30/03/26|Not started|
+|Generate personas|Everyone|30/03/26|Not started|
+|Generate scenarios|Everyone|30/03/26|Not started|
+|Generate user stories|Everyone|30/03/26|Not started|
 
 ## 7. Next Meeting
 
 **Proposed Date & Time:**
-
+30/03/26, 12:00
 **Proposed Agenda Items:**
+Generate multiple epics, personas, scenarios, and user‑story candidates, developing a narrative design for a feature for the mobile app.

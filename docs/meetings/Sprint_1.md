@@ -13,7 +13,7 @@ List all team members and mark **P** (present), **A** (absent), or **L** (late).
 
 | Name | Role (if applicable) | Attendance |
 | ---- | -------------------- | ---------- |
-|      |                      |            |
+|Eloise      |                      |            |
 |      |                      |            |
 |      |                      |            |
 

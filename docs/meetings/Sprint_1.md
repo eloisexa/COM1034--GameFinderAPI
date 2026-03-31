@@ -50,8 +50,8 @@ List the planned discussion items.
 Concise notes capturing what was discussed, decisions made, alternatives considered.
 Ensure you show evidence (e.g., screenshots, links to resources) of the discussion.
 
-![Discussion Evidence](evidence/screen_shot_example.png)
-[Link to random notes](evidence/some_random_notes.md)
+![Discussion Evidence](<sprint 1 evidence.png>)
+[Link to discussion notes](https://surreyac-my.sharepoint.com/:w:/r/personal/ea01874_surrey_ac_uk/Documents/sprint%201%20discussion%20notes.docx?d=wdc9f55b805014c7ba9a6af2d7e708bcf&csf=1&web=1&e=LPxoSI)
 
 ## 5. Decisions Made
 

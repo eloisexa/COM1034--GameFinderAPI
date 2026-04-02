@@ -68,14 +68,14 @@ Clear, assigned tasks with deadlines.
 
 | Task | Assigned To | Due Date | Status                               |
 | ---- | ----------- | -------- | ------------------------------------ |
-|Generate epics|Everyone|30/03/26|Not started|
-|Generate personas|Everyone|30/03/26|Not started|
-|Generate scenarios|Everyone|30/03/26|Not started|
-|Generate user stories|Everyone|30/03/26|Not started|
+|Generate epics|Everyone|02/04/26|In progress|
+|Generate personas|Everyone|02/04/26|In progress|
+|Generate scenarios|Everyone|02/04/26|In progress|
+|Generate user stories|Everyone|02/04/26|In progress|
 
 ## 7. Next Meeting
 
 **Proposed Date & Time:**
-30/03/26, 12:00
+02/04/26, 12:00
 **Proposed Agenda Items:**
 Generate multiple epics, personas, scenarios, and user‑story candidates, developing a narrative design for a feature for the mobile app.

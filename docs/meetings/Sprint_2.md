@@ -4,7 +4,7 @@
 <!-- Logs should be in valid markdown. You can find a guide here: https://www.markdownguide.org/basic-syntax/ -->
 
 > **Team Name / Group Number:**
-
+Group 12
 ---
 
 ## 1. Attendance
@@ -22,7 +22,7 @@ List all team members and mark **P** (present), **A** (absent), or **L** (late).
 ---
 
 ## 2. Meeting Purpose
-Starting sprint 2 - generating epics, personas, scenarios, and user‑stories.
+Starting sprint 2 - deciding on a feature to design, and generating epics, personas, scenarios, and user‑stories.
 
 <!-- A short sentence outlining why this meeting was held.
 
@@ -40,7 +40,7 @@ List the planned discussion items.
 
 1. Ideas for features for the project
 2. Generating multiple epics, personas, scenarios and user-stories
-3. Choosing 
+3. Choosing feature and finalising narrative design (deciding on which epic, personas, scenarios and user stories to use)
 
 ---
 
@@ -49,17 +49,17 @@ List the planned discussion items.
 Concise notes capturing what was discussed, decisions made, alternatives considered.
 Ensure you show evidence (e.g., screenshots, links to resources) of the discussion.
 
-![Discussion Evidence](evidence/screen_shot_example.png)
+![Discussion Evidence](<sprint 2 meeting evidence.png>)
 [Link to random notes](evidence/some_random_notes.md)
 
 ## 5. Decisions Made
 
 Use bullet points for clarity. Include rationale where relevant.
 
-- **Decision:**  
-  **Reasoning:**
-- **Decision:**  
-  **Reasoning:**
+- **Decision:** Chosen feature for project: 'Wishlist feature' 
+  **Reasoning:** Preferred idea over others we came up with, and we feel it is best suited to the project
+- **Decision:** Generated and finalised one epic, two personas, one scenario and five user stories
+  **Reasoning:** Necessary to effectively develop and design a software feature, and completes the project brief for sprint 2
 
 ## 6. Actions and Responsibilities
 

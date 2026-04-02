@@ -50,7 +50,7 @@ Concise notes capturing what was discussed, decisions made, alternatives conside
 Ensure you show evidence (e.g., screenshots, links to resources) of the discussion.
 
 ![Discussion Evidence](<sprint 2 meeting evidence.png>)
-[Link to random notes](evidence/some_random_notes.md)
+[Link to discussion notes](https://docs.google.com/document/d/18k9F8XpK8e6nsJVjpgRj_ZnhBQjHb3PMbuZ_F0bsr_4/edit?usp=sharing)
 
 ## 5. Decisions Made
 

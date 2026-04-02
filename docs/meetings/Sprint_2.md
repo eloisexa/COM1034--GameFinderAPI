@@ -13,13 +13,16 @@ List all team members and mark **P** (present), **A** (absent), or **L** (late).
 
 | Name | Role (if applicable) | Attendance |
 | ---- | -------------------- | ---------- |
-|      |                      |            |
-|      |                      |            |
-|      |                      |            |
-
+|Eloise|Project lead|P|
+|Freddie|User experience designer|P|
+|Varat|Front-end developer|P|
+|Deeqa|Back-end developer|P|
+|Morley|Front-end developer|A|
+|Owen|Back-end developer|P|
 ---
 
 ## 2. Meeting Purpose
+Starting sprint 2 - generating epics, personas, scenarios, and user‑stories.
 
 <!-- A short sentence outlining why this meeting was held.
 
@@ -35,9 +38,9 @@ Examples:
 
 List the planned discussion items.
 
-1.
-2.
-3.
+1. Ideas for features for the project
+2. Generating multiple epics, personas, scenarios and user-stories
+3. Choosing 
 
 ---
 

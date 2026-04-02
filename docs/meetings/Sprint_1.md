@@ -4,7 +4,7 @@
 <!-- Logs should be in valid markdown. You can find a guide here: https://www.markdownguide.org/basic-syntax/ -->
 
 > **Team Name / Group Number:**
-
+Group 12
 ---
 
 ## 1. Attendance

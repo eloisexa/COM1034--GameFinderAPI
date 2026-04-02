@@ -67,12 +67,12 @@ Clear, assigned tasks with deadlines.
 
 | Task | Assigned To | Due Date | Status                               |
 | ---- | ----------- | -------- | ------------------------------------ |
-|      |             |          | Not started / In progress / Complete |
-|      |             |          |                                      |
-|      |             |          |                                      |
+|Finalise narrative design|Everyone|06/04/26|In progress|
+|Design mock-ups|Everyone|06/04/26|In progress|
 
 ## 7. Next Meeting
 
 **Proposed Date & Time:**
-
+06/04/26, 12:00
 **Proposed Agenda Items:**
+Create high-fidelity mock-ups of our new feature (wishlist), focusing on design.

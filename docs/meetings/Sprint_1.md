@@ -68,10 +68,10 @@ Clear, assigned tasks with deadlines.
 
 | Task | Assigned To | Due Date | Status                               |
 | ---- | ----------- | -------- | ------------------------------------ |
-|Generate epics|Everyone|02/04/26|In progress|
-|Generate personas|Everyone|02/04/26|In progress|
-|Generate scenarios|Everyone|02/04/26|In progress|
-|Generate user stories|Everyone|02/04/26|In progress|
+|Generate epics|Everyone|02/04/26|Complete|
+|Generate personas|Everyone|02/04/26|Complete|
+|Generate scenarios|Everyone|02/04/26|Complete|
+|Generate user stories|Everyone|02/04/26|Complete|
 
 ## 7. Next Meeting
 

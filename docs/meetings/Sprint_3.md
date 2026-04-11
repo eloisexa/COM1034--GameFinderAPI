@@ -50,17 +50,17 @@ List the planned discussion items.
 Concise notes capturing what was discussed, decisions made, alternatives considered.
 Ensure you show evidence (e.g., screenshots, links to resources) of the discussion.
 
-![Discussion Evidence](evidence/screen_shot_example.png)
+![Discussion Evidence](<sprint 3 meeting evidence.png>)
 [Link to random notes](evidence/some_random_notes.md)
 
 ## 5. Decisions Made
 
 Use bullet points for clarity. Include rationale where relevant.
 
-- **Decision:**  
-  **Reasoning:**
-- **Decision:**  
-  **Reasoning:**
+- **Decision:** Final design ideas for user interfaces established  
+  **Reasoning:** Allows us to develop our design ideas further to create final user interfaces and interactive features
+- **Decision:** Created final, high-fidelity mock-ups for our feature
+  **Reasoning:** Completes sprint 3 brief for our project, and enables us to work with more refined and set-out plans for our feature
 
 ## 6. Actions and Responsibilities
 
@@ -68,12 +68,12 @@ Clear, assigned tasks with deadlines.
 
 | Task | Assigned To | Due Date | Status                               |
 | ---- | ----------- | -------- | ------------------------------------ |
-|      |             |          | Not started / In progress / Complete |
-|      |             |          |                                      |
-|      |             |          |                                      |
+| Finish user interafces for feature | Eloise, Freddie, Varat | 16/04/26 | In Progress |
+| Generate sample data ready to use for database in sprint 4 | Deeqa, Owen | 16/04/26 | Not started |
 
 ## 7. Next Meeting
 
 **Proposed Date & Time:**
-
+16/04/26, 12:00
 **Proposed Agenda Items:**
+Create/Update SQL schema for our new feature (start working on sprint 4).

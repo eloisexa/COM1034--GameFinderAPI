@@ -4,7 +4,7 @@
 <!-- Logs should be in valid markdown. You can find a guide here: https://www.markdownguide.org/basic-syntax/ -->
 
 > **Team Name / Group Number:**
-
+Group 12
 ---
 
 ## 1. Attendance
@@ -13,13 +13,17 @@ List all team members and mark **P** (present), **A** (absent), or **L** (late).
 
 | Name | Role (if applicable) | Attendance |
 | ---- | -------------------- | ---------- |
-|      |                      |            |
-|      |                      |            |
-|      |                      |            |
-
+|Eloise|Project lead|P|
+|Freddie|User experience designer|P|
+|Varat|Front-end developer|P|
+|Deeqa|Back-end developer|P|
+|Morley|Front-end developer|A|
+|Owen|Back-end developer|P|
 ---
 
 ## 2. Meeting Purpose
+
+To create design mock-ups for our new feature.
 
 <!-- A short sentence outlining why this meeting was held.
 
@@ -35,9 +39,9 @@ Examples:
 
 List the planned discussion items.
 
-1.
-2.
-3.
+1. Create basic, early mock-ups that will provide a starting point to develop our design ideas
+2. Decide on a design plan and choose from our early mock-ups which ideas we want to go with
+3. Finalise high-fidelity mock-ups for our new feature, showcasing 6 different screens/user interfaces
 
 ---
 

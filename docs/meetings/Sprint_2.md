@@ -56,7 +56,7 @@ Ensure you show evidence (e.g., screenshots, links to resources) of the discussi
 
 Use bullet points for clarity. Include rationale where relevant.
 
-- **Decision:** Chosen feature for project: 'Choose for me' feature
+- **Decision:** Chosen feature for project: 'Pick for me' feature
   **Reasoning:** Preferred idea over others we came up with, and we feel it is best suited to the project
 - **Decision:** Generated and finalised one epic, two personas, one scenario and five user stories
   **Reasoning:** Necessary to effectively develop and design a software feature, and completes the project brief for sprint 2

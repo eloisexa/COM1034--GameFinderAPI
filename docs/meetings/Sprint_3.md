@@ -51,7 +51,7 @@ Concise notes capturing what was discussed, decisions made, alternatives conside
 Ensure you show evidence (e.g., screenshots, links to resources) of the discussion.
 
 ![Discussion Evidence](<sprint 3 meeting evidence.png>)
-[Link to early mock-up notes](https://surreyac-my.sharepoint.com/:w:/r/personal/ea01874_surrey_ac_uk/Documents/early%20mockups%20for%20feature%20project.docx?d=wa02b9ed66001424795a273ec522b3323&csf=1&web=1&e=cFVjRh)
+[Link to early mock-up notes](https://surreyac-my.sharepoint.com/:w:/g/personal/ea01874_surrey_ac_uk/IQDWniugAWBHQpWic-xSKzMjAaZCtxSHSuSxiblQUOcjJ3E?e=VEqLAr)
 
 ## 5. Decisions Made
 

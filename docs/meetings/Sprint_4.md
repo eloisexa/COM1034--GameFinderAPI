@@ -39,9 +39,9 @@ Examples:
 
 List the planned discussion items.
 
-1.
-2.
-3.
+1. Create description of overall system structure + main components - including diagrams to illustrate interactions
+2. Create description of the data model and discuss design decisions made
+3. Discuss legal, sustainability and ethical considerations of our feature design
 
 ---
 

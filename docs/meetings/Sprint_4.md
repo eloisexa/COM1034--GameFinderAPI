@@ -50,17 +50,17 @@ List the planned discussion items.
 Concise notes capturing what was discussed, decisions made, alternatives considered.
 Ensure you show evidence (e.g., screenshots, links to resources) of the discussion.
 
-![Discussion Evidence](evidence/screen_shot_example.png)
-[Link to random notes](evidence/some_random_notes.md)
+![Discussion Evidence](<sprint 4 meeting evidence.png>)
+[Link to discussion notes for legal, sustainable and ethical considerations created as a group](https://docs.google.com/document/d/18k9F8XpK8e6nsJVjpgRj_ZnhBQjHb3PMbuZ_F0bsr_4/edit?usp=sharing)
 
 ## 5. Decisions Made
 
 Use bullet points for clarity. Include rationale where relevant.
 
-- **Decision:**  
-  **Reasoning:**
-- **Decision:**  
-  **Reasoning:**
+- **Decision:** Established overall system structure for our feature implementation
+  **Reasoning:** Helps to illustrate to us as developers as well as users how system components interact/communicate to aid with development/implementation of the feature
+- **Decision:** Considered ethical, legal and sustainabiliy issues that may be raised by our feature
+  **Reasoning:** Came up with ways to prevent these issues from being raised/created, or aiding in reducing the impact if they are unavoidable
 
 ## 6. Actions and Responsibilities
 
@@ -68,12 +68,13 @@ Clear, assigned tasks with deadlines.
 
 | Task | Assigned To | Due Date | Status                               |
 | ---- | ----------- | -------- | ------------------------------------ |
-|      |             |          | Not started / In progress / Complete |
-|      |             |          |                                      |
-|      |             |          |                                      |
+| Generate sample data | Everyone | 26/04/26 | In progress |
+| Start creating/updating SQL | Deeqa, Owen | 26/04/26 | Not Started |
+| Finish making notes on ethical, sustainability and legal considerations | Eloise, Freddie, Varat | 26/04/26 | In Progress |
 
 ## 7. Next Meeting
 
 **Proposed Date & Time:**
-
+26/04/26, 12:00
 **Proposed Agenda Items:**
+Finish sprint 4 - complete required SQL updates/changes/creation, and make notes on data model and design decisions.

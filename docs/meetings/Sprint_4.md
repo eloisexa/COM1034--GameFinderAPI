@@ -4,7 +4,7 @@
 <!-- Logs should be in valid markdown. You can find a guide here: https://www.markdownguide.org/basic-syntax/ -->
 
 > **Team Name / Group Number:**
-
+12
 ---
 
 ## 1. Attendance
@@ -13,15 +13,19 @@ List all team members and mark **P** (present), **A** (absent), or **L** (late).
 
 | Name | Role (if applicable) | Attendance |
 | ---- | -------------------- | ---------- |
-|      |                      |            |
-|      |                      |            |
-|      |                      |            |
-
+|Eloise|Project lead|P|
+|Freddie|User experience designer|P|
+|Varat|Front-end developer|P|
+|Deeqa|Back-end developer|P|
+|Morley|Front-end developer|A|
+|Owen|Back-end developer|P|
 ---
 
 ## 2. Meeting Purpose
 
 <!-- A short sentence outlining why this meeting was held.
+
+Create/update SQL schema for our new feature.
 
 Examples:
 

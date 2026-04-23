@@ -60,7 +60,7 @@ Use bullet points for clarity. Include rationale where relevant.
 - **Decision:** Final design ideas for user interfaces established  
   **Reasoning:** Allows us to develop our design ideas further to create final user interfaces and interactive features
 - **Decision:** Created final, high-fidelity mock-ups for our feature
-  **Reasoning:** Completes sprint 3 brief for our project, and enables us to work with more refined and set-out plans for our feature
+  **Reasoning:** Completes sprint 3 brief for our project, and enables us to work with more refined and set-out plans for our feature to assist with development
 
 ## 6. Actions and Responsibilities
 

@@ -25,7 +25,7 @@ List all team members and mark **P** (present), **A** (absent), or **L** (late).
 
 <!-- A short sentence outlining why this meeting was held.
 
-Create/update SQL schema for our new feature.
+Create/update SQL schema for our new feature and consider structural design (discuss and create diagrams e.g. UML diagram).
 
 Examples:
 
@@ -69,7 +69,7 @@ Clear, assigned tasks with deadlines.
 | Task | Assigned To | Due Date | Status                               |
 | ---- | ----------- | -------- | ------------------------------------ |
 | Generate sample data | Everyone | 26/04/26 | In progress |
-| Start creating/updating SQL | Deeqa, Owen | 26/04/26 | Not Started |
+| Start creating/updating SQL | Deeqa, Owen | 26/04/26 | In progress |
 | Finish making notes on ethical, sustainability and legal considerations | Eloise, Freddie, Varat | 26/04/26 | In Progress |
 
 ## 7. Next Meeting

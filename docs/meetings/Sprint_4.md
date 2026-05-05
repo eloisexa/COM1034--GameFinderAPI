@@ -68,9 +68,9 @@ Clear, assigned tasks with deadlines.
 
 | Task | Assigned To | Due Date | Status                               |
 | ---- | ----------- | -------- | ------------------------------------ |
-| Generate sample data | Everyone | 26/04/26 | In progress |
-| Start creating/updating SQL | Deeqa, Owen | 26/04/26 | In progress |
-| Finish making notes on ethical, sustainability and legal considerations | Eloise, Freddie, Varat | 26/04/26 | In Progress |
+| Generate sample data | Everyone | 26/04/26 | Complete |
+| Start creating/updating SQL | Deeqa, Owen | 26/04/26 | Complete |
+| Finish making notes on ethical, sustainability and legal considerations | Eloise, Freddie, Varat | 26/04/26 | Complete |
 
 ## 7. Next Meeting
 

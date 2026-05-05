@@ -69,7 +69,7 @@ Clear, assigned tasks with deadlines.
 | Task | Assigned To | Due Date | Status                               |
 | ---- | ----------- | -------- | ------------------------------------ |
 | Finish user interafces for feature | Eloise, Freddie, Varat | 23/04/26 | Complete |
-| Generate sample data ready to use for database in sprint 4 | Deeqa, Owen | 26/04/26 | In progress |
+| Generate sample data ready to use for database in sprint 4 | Deeqa, Owen | 26/04/26 | Complete |
 
 ## 7. Next Meeting
 

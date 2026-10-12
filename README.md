@@ -1,5 +1,3 @@
-# COM1034: Group Design Exercise
+# GameFinder | COM1028 - Software Engineering
 
-This is the starting repository for the COM1034 Group Design Exercise.
-
-As you progress through the sprints, you will be expected to complete the related documents in the `docs/` folder of your team’s repository. Please ensure that you follow the provided templates for each document, and use valid markdown formatting.
+GameFinder is a Java web application that uses an API for exploring a read-only game database. It was developed as part of the COM1028 - Software Engineering module at the University of Surrey and demonstrates clean layering, a tested codebase, and a small but practical web API.

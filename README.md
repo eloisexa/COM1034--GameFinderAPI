@@ -23,4 +23,5 @@ GameFinder is a Java web application that uses an API for exploring a read-only 
 * Build: Maven
 
 **Implementation Requirements:**
+
 The application was developed to meet the module's assessed criteria, covering core API functionality, data access, additional endpoints, and automated testing. The implementation follows a layered architecture to separate data models, database access and request handling, supporting maintainability and testability.

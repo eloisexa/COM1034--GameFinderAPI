@@ -1,4 +1,4 @@
-# GameFinder | COM1028 - Software Engineering
+# GameFinder | COM1034 - Software Engineering
 
 GameFinder is a Java web application that uses an API for exploring a read-only video game database. It was developed as part of the COM1034 - Software Engineering module at the University of Surrey and demonstrates clean software architecture, a tested codebase, and a practical web API. GameFinder provides programmatic access to video games and related information stored in a local SQLite dataset. The API supports querying games, retrieving information about individual games, and exploring relationships between games and associated data. The application is intentionally read-only: the database is used as a sample dataset and is not modified by the application.
 

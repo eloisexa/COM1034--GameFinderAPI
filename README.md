@@ -1,27 +1,27 @@
 # GameFinder | COM1034 - Software Engineering
 
-GameFinder is a Java web application that uses an API for exploring a read-only video game database. It was developed as part of the COM1034 - Software Engineering module at the University of Surrey and demonstrates clean software architecture, a tested codebase, and a practical web API. GameFinder provides programmatic access to video games and related information stored in a local SQLite dataset. The API supports querying games, retrieving information about individual games, and exploring relationships between games and associated data. The application is intentionally read-only: the database is used as a sample dataset and is not modified by the application.
+GameFinder was a group software engineering project completed as part of the COM1034 module at the University of Surrey. As project lead, I helped coordinate the team, organise tasks, and contribute to the planning and documentation of a Java-based web application for exploring video game data. The project involved designing user interfaces, dividing responsibilities between group members, and completing multiple development cycles. The main focus was on software engineering documentation, UI design, project planning, and iterative development, alongside basic database implementation.
 
-**Key Features:**
-* Java backend using Javalin, a lightweight web framework
+Key Features:
 
-* Data Access Object (DAO) layer for interacting with a SQLite database via JDBC
+* Project leadership, team coordination, and task allocation
 
-* RESTful API endpoints for retrieving video game information and related data
+* UI design and planning for a video game database application
 
-* Structured separation of models, data access and controller logic
+* Collaborative software development with clearly divided roles and responsibilities
 
-* Unit and integration tests to verify application functionality and API behaviour
+* Comprehensive documentation covering the software development process
 
-**Tech Stack:**
-* Backend: Java, Javalin
+* Multiple development cycles following an iterative approach
 
-* Database: SQLite (development), in-memory SQLite for tests
+* Database populated with video game data to support the application
 
-* Testing: JUnit 5, Mockito, REST-assured
+Project Focus:
 
-* Build: Maven
+* Leadership, teamwork, and project organisation
 
-**Implementation Requirements:**
+* User interface design and application planning
 
-The application was developed to meet the module's assessed criteria, covering core API functionality, data access, additional endpoints, and automated testing. The implementation follows a layered architecture to separate data models, database access and request handling, supporting maintainability and testability.
+* Software engineering documentation and iterative development
+
+* Basic database implementation and data management
